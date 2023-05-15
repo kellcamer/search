@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.Main.resources
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.Properties.Resources.resources
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.UserControls.main.resources
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.UserControls.data.resources
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.UserControls.eitMain.resources
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.UserControls.homingBox.resources
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.UserControls.expandingSquare.resources
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.UserControls.sectorSearch.resources
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\PorjectSearchAR\PorjectSearchAR\obj\Debug\PorjectSearchAR.csproj.CoreCompileInputs.cache
